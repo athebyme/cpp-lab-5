@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\Service\ConsoleDisplayService.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\Stack\Stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\Service\ExceptionService.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\Service\DisplayServiceInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\Service\ConsoleDisplayService.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\src\Stack\Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Anton\Documents\GitHub\cpp-lab-5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C02406D2-6279-39FF-B5B4-7D31ECAA8FBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{60926505-3FC2-3878-853F-821BB3F82476}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
